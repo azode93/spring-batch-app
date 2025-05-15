@@ -18,7 +18,7 @@ public class Demo {
 	        String strDate = dateFormat.format(new Date());
 
 	        System.out.println(
-	            "Cron job Scheduler: Job running at - "
+	            "Cron job Scheduler: Job running  - "
 	            + strDate);
 	    }
 
